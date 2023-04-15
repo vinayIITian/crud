@@ -1,0 +1,14 @@
+.main{
+  display: flex;
+  padding: 5vh;
+  flex-direction: column;
+}
+
+.main-2-h{
+  font-size: 60px;
+  padding-bottom:5vh ;
+}
+
+.main-3{
+  width: 40%;
+}
